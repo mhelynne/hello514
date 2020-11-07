@@ -1,5 +1,5 @@
 print("Hello world")
-print("Good morning :)")
-print("!!!")
+print("Goodbye !!!")
+print("Hello !!!")
 
 print("CONTRIBUICAO DO COLABORADOR 514")
