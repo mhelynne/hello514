@@ -183,4 +183,15 @@ dmypy.json
 .history
 .ionide
 
-# End of https://www.toptal.com/developers/gitignore/api/macos,python,visualstudiocode
+
+### NetBeans ###
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# End of https://www.toptal.com/developers/gitignore/api/netbeans
